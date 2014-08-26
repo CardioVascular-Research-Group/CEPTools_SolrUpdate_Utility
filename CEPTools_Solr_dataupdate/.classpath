@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/sbrow126/Documents/Liferay/liferay-plugins-sdk-6.1.1_ceptools/portlets/PubMedSearch-portlet/docroot/WEB-INF/lib/solr-solrj-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sbrow126/Documents/Liferay/utility jars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sbrow126/Documents/Liferay/utility jars/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sbrow126/Documents/Liferay/utility jars/httpcore-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sbrow126/Documents/Liferay/utility jars/httpmime-4.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sbrow126/Documents/Liferay/utility jars/slf4j-api-1.6.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sbrow126/Documents/Liferay/utility jars/slf4j-log4j12-1.6.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sbrow126/Documents/Liferay/utility jars/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sbrow126/Documents/Liferay/utility jars/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sbrow126/Documents/Liferay/utility jars/commons-logging-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sbrow126/Documents/Liferay/utility jars/noggit-0.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
